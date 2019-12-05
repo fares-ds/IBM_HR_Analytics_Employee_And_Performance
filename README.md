@@ -18,5 +18,5 @@ Uncover the factors that lead to employee attrition and explore important questi
 
 - WorkLifeBalance 1 'Bad' 2 'Good' 3 'Better' 4 'Best'
 
-[https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](Data on kaggle)
-[https://www.kaggle.com/faressayah/why-workers-quit-machine-learning-for-managers](Kernel on kaggle)
+[Data on kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+[Kernel on kaggle](https://www.kaggle.com/faressayah/why-workers-quit-machine-learning-for-managers)
